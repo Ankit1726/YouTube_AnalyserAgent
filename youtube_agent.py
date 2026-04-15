@@ -3,10 +3,6 @@ from agno.agent import Agent
 from agno.models.groq import Groq
 from agno.tools.youtube import YouTubeTools
 
-# Creating Memory 
-db = SqliteDb(db_file="history.db")
-db.clear_memories()
-
 from dotenv import load_dotenv
 load_dotenv()
 
