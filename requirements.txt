@@ -1,10 +1,6 @@
-streamlit 
+streamlit
 youtube-transcript-api
-numpy 
-pandas 
-anthropic
-agno
-response 
 groq
-ddgs
-yfinance
+agno
+requests
+python-dotenv
