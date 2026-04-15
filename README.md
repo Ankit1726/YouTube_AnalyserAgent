@@ -11,7 +11,8 @@
 
 ## 📸👀 Preview  
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](.img_1.png)
+![App Screenshot](.img_2.png)
 
 ---
 
