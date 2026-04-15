@@ -2,8 +2,6 @@ from textwrap import dedent
 from agno.agent import Agent
 from agno.models.groq import Groq
 from agno.tools.youtube import YouTubeTools
-from agno.db.sqlite import SqliteDb
-from rich.pretty import pprint
 
 # Creating Memory 
 db = SqliteDb(db_file="history.db")
